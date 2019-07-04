@@ -1,7 +1,12 @@
-# github_practice
+git_practice
 
-## 見出し２
+## reset
+・コミットの取り消し - soft
+・ステージングの取り消し - mixed
+・ファイル変更の取り消し - hard
 
-- list1
-- list2
-- list3
+## ammend
+前のコミットに追加
+
+## stash
+コミットの統合
