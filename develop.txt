@@ -1,4 +1,4 @@
 ﻿Bさんの変更です
-ローカルで変更しましたてすと
+ローカルで変更しましたtest
 develop hotfix
 hotfix2
