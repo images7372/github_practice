@@ -1,3 +1,4 @@
 ﻿Bさんの変更です
 ローカルで変更しましたてすと
 develop hotfix
+hotfix2
